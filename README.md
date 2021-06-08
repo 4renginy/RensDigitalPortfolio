@@ -1,5 +1,7 @@
 # rydigitalresume
+<h1>
 
-[Link to live site](https://4renginy.github.io/rydigitalresume.io/)
+[Rengin Yildiz Digital Portfolio](https://4renginy.github.io/rydigitalresume.io/)
 
 
+</h1>
